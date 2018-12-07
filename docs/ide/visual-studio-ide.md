@@ -26,7 +26,7 @@ Visual Studio *통합 개발 환경*은 코드를 편집, 디버그 및 빌드�
 
 ![Visual Studio IDE](../ide/media/visualstudioide.png)
 
-이 이미지는 열려 있는 프로젝트와 사용할 가능성이 있는 몇 가지 주요 도구 창과 함께 Visual Studio를 보여줍니다.
+이 이미지는 프로젝트와 사용할만한 몇 가지 주요 도구 창이 열려 있는 비주얼 스튜디오를 보여줍니다.
 
 - [**솔루션 탐색기**](../ide/solutions-and-projects-in-visual-studio.md)(오른쪽 위) - 코드 파일을 보고, 탐색하고, 관리할 수 있습니다. **솔루션 탐색기**에서 파일을 [솔루션 및 프로젝트](quickstart-projects-solutions.md)로 그룹화하여 코드를 구성할 수 있습니다.
 
