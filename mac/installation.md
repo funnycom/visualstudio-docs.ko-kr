@@ -29,7 +29,7 @@ Visual Studio에서 iOS를 사용하는 경우 다음 사항이 필요합니다.
 
 1. [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)에서 Mac용 Visual Studio 다운로드
 
-2. 설치 관리자 패키지가 다운로드되면 **VisualStudioInstaller.dmg** 파일을 클릭하여 설치 관리자를 탑재하고 다음 이미지와 같이 로고를 두 번 클릭하여 실행합니다.
+2. 설치 관리자 패키지가 다운로드되면 **VisualStudioForMacInstaller.dmg** 파일을 클릭하여 설치 관리자를 탑재하고 다음 이미지와 같이 로고를 두 번 클릭하여 실행합니다.
 
    ![설치 관리자 대화 상자](media/installer-image1.png)
 
